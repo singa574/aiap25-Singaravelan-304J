@@ -1,7 +1,7 @@
 # AIAP Batch 25 - Travelers' Inn booking-fallout prediction
 
-**Candidate name (as in NRIC):** TODO  
-**Application email:** TODO
+**Candidate name (as in NRIC):** Singaravelan  
+**Application email:** Singavln32@gmail.com
 
 > This is a submission-ready README outline. Replace every `TODO` with your own results and wording after running the EDA and pipeline.
 
