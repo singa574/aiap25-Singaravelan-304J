@@ -1,8 +1,8 @@
 # AIAP Technical Assessment — Decision Log
 
-**Candidate name (as in NRIC):**
+**Candidate name (as in NRIC):** Singaravelan
 
-**Email (as used in your application):**
+**Email (as used in your application):** singavln32@gmail.com
 
 ---
 
