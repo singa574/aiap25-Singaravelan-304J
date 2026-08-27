@@ -1,8 +1,8 @@
 # AIAP Technical Assessment — Prompt Chat History
 
-**Candidate name (as in NRIC):**
+**Candidate name (as in NRIC):** Singaravelan
 
-**Email (as used in your application):**
+**Email (as used in your application):** Singavln32@gmail.com
 
 **AI assistant(s) used:** OpenAI Codex
 
